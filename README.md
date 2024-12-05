@@ -67,9 +67,11 @@ int main() {
     return 0;
 }
 ```
+
+
 2. Write a program to find the ith smallest element of an array using Randomized Select.
 
-   ```
+```
 #include <iostream>
 #include <cstdlib> // For rand() and srand()
 #include <ctime>   // For seeding rand()
@@ -152,8 +154,12 @@ int main() {
 }
 
 ```
+
+
+
 3. Write a program to determine the minimum spanning tree of a graph using Kruskal’s
 algorithm.
+
 ```
 #include <iostream>
 #include <vector>
@@ -256,7 +262,11 @@ int main() {
     return 0;
 }
 ```
+
+
 input
+
+
 ```
 Enter the number of vertices: 4
 Enter the number of edges: 5
@@ -351,6 +361,7 @@ int main() {
 ```
 
 Input
+
 ```
 Enter the number of vertices: 5
 Enter the number of edges: 8
@@ -364,7 +375,11 @@ Enter the edges (u, v, weight):
 3 4 -3
 Enter the source vertex: 0
 ```
+
+
 5. Write a program to implement a B-Tree.
+
+   
 ```
 #include <iostream>
 #include <vector>
@@ -527,6 +542,8 @@ int main() {
 }
 ```
 
+
+
 6. Write a program to implement the Tree Data structure, which supports the following
 operations:
 a. Insert
@@ -635,7 +652,14 @@ int main() {
     return 0;
 }
 ```
+
+
+
 7. Write a program to search a pattern in a given text using the KMP algorithm.
+
+
+
+
 ```
 
 #include <iostream>
@@ -716,7 +740,13 @@ int main() {
     return 0;
 }
 ```
+
+
+
 8. Write a program to implement a Suffix tree.
+
+
+
 ```
 #include <iostream>
 #include <string>
